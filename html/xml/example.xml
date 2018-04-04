@@ -1,0 +1,9 @@
+<Global name="Example Project"  infolink="http://www.broadinstitute.org/igv/" version="1">
+    <Category name="BS-Seq">
+        <Category name="Project001">
+        <Resource name="A1.tdf" path="http://10.41.9.210:8686/track/example/A1.tdf" />
+        <Resource name="B1.tdf" path="http://10.41.9.210:8686/track/example/B1.tdf" />
+        <Resource name="C1.tdf" path="http://10.41.9.210:8686/track/example/C1.tdf" />
+        </Category>
+    </Category>
+</Global>
